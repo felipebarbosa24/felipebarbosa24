@@ -1,6 +1,6 @@
 ### Olá! Me chamo Felipe Barbosa👋🏻
 
-![Felipe Github Status](https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&theme=midnight-purple) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&layout=compact&langs_count=6&theme=midnight-purple&cache_seconds=86400)
+![Felipe Github Status](https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&theme=midnight-purple) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&theme=midnight-purple)
 
 ## Entre em contato por aqui:
 
