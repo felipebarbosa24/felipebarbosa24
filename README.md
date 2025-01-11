@@ -16,5 +16,5 @@
     <img align="center" alt="nodejs" width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
     <img align="center" alt="postgree" width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="git" width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="github" width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(1);" />
+    <img align="center" alt="github" width=60px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" />
 </div> 
