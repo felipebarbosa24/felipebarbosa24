@@ -1,4 +1,4 @@
-## 👨🏻‍💻Felipe Barbosa
+## Olá! Sou Felipe Barbosa👋🏻👨🏻‍💻
 ![Felipe Github Status](https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&theme=midnight-purple) ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&theme=midnight-purple)
 
 ## 📲Formas de Contato
