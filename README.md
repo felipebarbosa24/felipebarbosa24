@@ -20,9 +20,9 @@
       
 <div align="center">
 <img height="180" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&count_private=true&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&icon_color=61d9fa&font=Iosevka"/>
+    src="https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&count_private=true&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&icon_color=61d9fa&font=Iosevka&hide_border=true"/>
   <img height="180" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&layout=compact&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&font=Iosevka"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&layout=compact&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&font=Iosevka&hide_border=true"/>
 
   <br>
   <br>
