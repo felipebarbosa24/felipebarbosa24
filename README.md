@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e70eb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=61d9fa"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+student+Software+Engineering+;I+am+from+Brazil;I+love+technology+and+programming;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61D9FA&width=435&lines=I'm+a+student+Software+Engineering+;I+am+from+Brazil;I+love+technology+and+programming;Be+welcome!" alt="Typing SVG"/>
 </div>
       
 <br>
@@ -20,9 +20,9 @@
       
 <div align="center">
 <img height="180" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=felipebarbosa24&show_icons=true&count_private=true&rank_icon=github&theme=react&font=Iosevka&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff"/>
+    src="https://github-readme-stats.vercel.app/api?username=felipebarbosa24&show_icons=true&count_private=true&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&icon_color=61d9fa&font=Iosevka"/>
   <img height="180" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&layout=compact&font=Iosevka&langs_count=16&theme=react&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebarbosa24&layout=compact&theme=react&bg_color=1f2229&text_color=c9d1d9&title_color=61d9fa&font=Iosevka"/>
 
   <br>
   <br>
@@ -86,9 +86,9 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipebarbosa24&s=40&c=1e70eb&bg=00000000&no=4&ff=digi&tb=PROFILE+VISITS%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ffelipebarbosa24&s=40&c=61d9fa&bg=00000000&no=4&ff=digi&tb=PROFILE+VISITS%3A++&ta=" /></p> 
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e70eb&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61d9fa&height=100&section=footer"/>
